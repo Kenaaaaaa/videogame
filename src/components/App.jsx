@@ -4,6 +4,7 @@ import {Route, Switch} from 'react-router-dom';
 import {GameInformation,Games, Navbar,Profile} from './index';
 import useStyles from './styles';
 
+
 const App = () => {
   const classes=useStyles();
 
